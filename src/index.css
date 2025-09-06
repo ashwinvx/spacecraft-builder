@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    color: white
+}
+
+.card {
+    border: solid;
+    margin: 0 0 1em 0;
+    padding: 0 0 0 1em;
+}

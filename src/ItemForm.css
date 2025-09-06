@@ -1,0 +1,22 @@
+form button {
+    background-color: black;
+    border: green solid;
+    color: white;
+    padding: 0.75em 3.5em;
+    margin: 0em 1em 1em 0;
+}
+
+.full-width-form input[type="text"],
+.full-width-form textarea,
+.full-width-form select {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.5em 0.5em;
+    margin: 0em 1em 1em 0;
+}
+
+.terms {
+    margin: 0em 0em 1em 0;
+    padding: 0.5em 0.5em;
+    border: solid;
+}
