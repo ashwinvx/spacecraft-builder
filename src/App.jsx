@@ -1,4 +1,5 @@
-import SpacecraftBuilder from "./SpacecraftBuilder"
+import SpacecraftBuilder from "./components/SpacecraftBuilder"
+
 
 function App() {
 
